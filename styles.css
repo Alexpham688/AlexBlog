@@ -92,8 +92,7 @@ a:hover {
   color: #9E9E9C;
 }
 .officeImage {
-  margin-top: 20px;
-  margin-left: 160px;
+  margin:0 auto;
 }
 .ads {
   float:right;
