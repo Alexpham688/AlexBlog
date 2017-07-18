@@ -64,7 +64,7 @@ h1 {
  }
  section {
    width: 600px;
-   height: 590px;
+   height: 650px;
    margin-left: 40px;
    background:#F0F0F0;
    position:relative;
@@ -113,7 +113,9 @@ a:hover {
   height: auto;
   text-align: center;
   font-family: helvetica;
+  margin: 0 auto;
 }
+
 .subscribe {
   width: 700px;
   height: 200px;
