@@ -59,13 +59,13 @@ h1 {
    font-family: georgia times serif;
    background: #e3e3e3;
    width: 35%;
-   text-align: center
+   text-align: center;
    position: relative;
  }
  section {
-   width: 770px;
+   width: 600px;
    height: 590px;
-   margin-left: 50px;
+   margin-left: 40px;
    background:#F0F0F0;
    position:relative;
 
@@ -94,8 +94,8 @@ a:hover {
   color: #9E9E9C;
 }
 .officeImage {
-  margin-top: 20px;
-  margin-left:100px;
+  margin-left: 150px;
+  text-align: center;
 }
 .ads {
   float:right;
@@ -109,7 +109,7 @@ a:hover {
 }
 
 .last {
-  width:700;
+  width:700px;
   height: auto;
   text-align: center;
   font-family: helvetica;
@@ -209,9 +209,4 @@ h2 {
 }
 h4 {
   font-family: helvetica;
-}
-@media(max-width: 800px) {
-  .container {
-    width:90%;
-  }
 }
