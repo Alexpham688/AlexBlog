@@ -93,7 +93,7 @@ a:hover {
 }
 .officeImage {
   margin-top: 20px;
-  margin-left:158px;
+  margin-left: 240px;
 }
 .ads {
   float:right;
@@ -143,4 +143,69 @@ button {
 button:hover {
   background: orange;
   color:#fff;
+}
+.container {
+  overflow: hidden;
+  width:980px;
+  margin: 40px auto;
+}
+#prev, #next {
+  float:left;
+  margin-top: 130px;
+  position: relative;
+  z-index: 100;
+  width: 50px;
+  height: 50px;
+}
+#prev {
+  margin-right: -45px;
+  border-radius: 6px;
+}
+
+#next {
+  margin-left: -45px;
+  border-radius: 6px;
+}
+#slider {
+  width: 940px;
+  height:400px;
+  position: relative;
+  overflow: hidden;
+  float: left;
+  padding: 3px;
+  border: 2px solid orange;
+  border-radius: 5px;
+}
+#slider img {
+  width: 940px;
+  height: 400px;
+}
+.slide {
+  position: absolute;
+}
+.slide-copy {
+  position: absolute;
+  bottom: 0;
+  left:0;
+  width:auto;
+  padding: 20px;
+  background:#7f7f7f;
+  background:rgba(0,0,0,0.5);
+}
+/*h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}*/
+h2 {
+  margin-bottom: 10px;
+  text-align: center;
+  color: #BBCBFF;
+}
+.slide-copy p {
+  color:#fff;
+}#prev:hover {
+  cursor: pointer;
+}
+#next:hover {
+  cursor: pointer;
 }
