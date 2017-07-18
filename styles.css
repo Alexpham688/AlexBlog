@@ -93,7 +93,7 @@ a:hover {
 }
 .officeImage {
   margin-top: 20px;
-  margin-left: 240px;
+  margin-left: 160px;
 }
 .ads {
   float:right;
@@ -208,4 +208,7 @@ h2 {
 }
 #next:hover {
   cursor: pointer;
+}
+h4 {
+  font-family: helvetica;
 }
