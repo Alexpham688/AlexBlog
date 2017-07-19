@@ -65,7 +65,7 @@ h1 {
  section {
    width: 650px;
    height: 650px;
-   margin-left: 40px;
+   margin-left: 20px;
    background:#F0F0F0;
    position:relative;
 
@@ -102,7 +102,7 @@ a:hover {
   display:inline;
   width:250px;
   height:250px;
-  margin-right: 45px;
+  margin-right: 20px;
 }
 .ads a {
   padding-top:10px;
