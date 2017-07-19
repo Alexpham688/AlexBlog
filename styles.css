@@ -63,7 +63,7 @@ h1 {
    position: relative;
  }
  section {
-   width: 600px;
+   width: 650px;
    height: 650px;
    margin-left: 40px;
    background:#F0F0F0;
@@ -94,7 +94,7 @@ a:hover {
   color: #9E9E9C;
 }
 .officeImage {
-  margin-left: 150px;
+  margin: 0 auto;
   text-align: center;
 }
 .ads {
